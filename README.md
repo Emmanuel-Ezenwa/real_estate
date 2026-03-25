@@ -68,3 +68,17 @@ This project provides insights into:
 
 ## 🚀 Author
 Emmanuel Ezenwa
+
+## 📚 Data Source
+
+This project uses the Nigeria Real Estate dataset provided by Electric Sheep Africa.
+
+## 📌 Citation
+
+@dataset{nigeria_realestate_2025,
+  title = {Nigeria Real Estate – Market Supply Demand},
+  author = {Electric Sheep Africa},
+  year = {2025},
+  publisher = {Hugging Face},
+  url = {https://huggingface.co/datasets/electricsheepafrica/nigerian_realestate_market_supply_demand}
+}
